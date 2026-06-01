@@ -4,7 +4,7 @@
 
 ### 🔐 Cybersecurity Learner | 🏴 CTF Player 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;CTF+Player;Web+Security+Learner;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Cybersecurity+Learner;CTF+Player;Web+Security+Learner;Always+Learning+Something+New" />
 
 </div>
 
