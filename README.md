@@ -20,10 +20,9 @@ Sondos Ayoub
 Computer Science Graduate
 
 Interested in:
-- Web Application Security
-- Network Security
-- Linux
-- Active Directory
+- Web Application pentesting
+- Network pentesting
+- Active Directory pentesting
 - Vulnerability Assessment
 - Penetration Testing
 
@@ -99,13 +98,10 @@ Topics include:
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/sondos-ayoub)
 
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge)](YOUR_HTB_LINK)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge)](https://profile.hackthebox.com/profile/019c3f68-c3e8-73b4-ab66-631aceeb955c)
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge)](YOUR_THM_LINK)
-
-[![Notion](https://img.shields.io/badge/Notion-Knowledge_Base-black?style=for-the-badge\&logo=notion)](YOUR_NOTION_LINK)
 
 ---
 
